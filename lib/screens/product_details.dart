@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:navigator_poc/screens/screens.dart';
-
-import '../navigation.dart';
+import 'package:navigator_poc/navigation.dart';
+import 'package:navigator_poc/screens/profile.dart';
 
 class ProductDetailsScreenArguments {
   final String message;

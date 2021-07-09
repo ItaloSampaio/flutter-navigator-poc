@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-
-import 'screens/screens.dart';
+import 'package:navigator_poc/screens/screens.dart';
 
 class Routes {
   Routes._();

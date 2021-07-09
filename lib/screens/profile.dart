@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-
-import '../navigation.dart';
+import 'package:navigator_poc/navigation.dart';
 
 class ProfileScreenArguments {
   final String message;
